@@ -1,7 +1,7 @@
 - Clone the repo
 
 ```jsx
-git clone <repo-link>
+git clone https://github.com/hm-aditya/PayMe.git
 
 - npm install
 - Run postgres either locally or on the cloud (neon.tech)
